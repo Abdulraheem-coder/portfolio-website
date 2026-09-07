@@ -3,7 +3,7 @@
 A personal portfolio website built to showcase my web development projects and technical skills.
 
 ## 🚀 Live Demo
-- [View Live Site](https://your-live-link.com)
+- [View Live Site](raheemdev.netlify.app)
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML5, CSS3, JavaScript
@@ -17,4 +17,4 @@ A personal portfolio website built to showcase my web development projects and t
 ## 💻 Local Setup
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+   git clone [https://github.com/Abdulraheem-coder.git](https://github.com/Abdulraheem-coder/portfolio-website.git)
