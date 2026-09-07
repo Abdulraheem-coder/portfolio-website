@@ -3,7 +3,7 @@
 A personal portfolio website built to showcase my web development projects and technical skills.
 
 ## 🚀 Live Demo
-- [View Live Site](raheemdev.netlify.app)
+- [View Live Demo](raheemdev.netlify.app)
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML5, CSS3, JavaScript
